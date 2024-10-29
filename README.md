@@ -21,6 +21,6 @@
 - Login page
 ![example](./image/login.jpg)
 - Register page
-![example](./image/rigistr.jpg)
+![example](./image/registr.jpg)
 - Dashboard admin page
 ![example](./image/dashboard.jpg)

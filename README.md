@@ -5,22 +5,22 @@
  - Trang web được xây dưng dựa trên các nền tảng: HTML, CSS, Java, Javascript, MySQL.
 # Dưới đây là những hình ảnh chi tiết về website này
 - Home page
-![example](./images/home.jpg)
+![example](./image/home.jpg)
 - Category page
-![example](./images/category.jpg)
+![example](./image/category.jpg)
 - Shop page
-![example](./images/shop.jpg)
+![example](./image/shop.jpg)
 - Detail page
-![example](./images/detail.jpg)
+![example](./image/detail.jpg)
 - About page
-![example](./images/about.jpg)
+![example](./image/about.jpg)
 - Contact page
-![example](./images/contact.jpg)
+![example](./image/contact.jpg)
 - Cart page
-![example](./images/cart-checkout.jpg)
+![example](./image/cart.jpg)
 - Login page
-![example](./images/login.jpg)
+![example](./image/login.jpg)
 - Register page
-![example](./images/rigister.jpg)
+![example](./image/rigistr.jpg)
 - Dashboard admin page
-![example](./images/dashboard.jpg)
+![example](./image/dashboard.jpg)
